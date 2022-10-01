@@ -1,4 +1,4 @@
-import useCalc from "./useCalc";
+import useCalc from "../../hooks/useCalc";
 import {useState} from 'react'
 const MyNewComponent = () => {
 
